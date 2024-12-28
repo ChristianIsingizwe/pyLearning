@@ -17,3 +17,11 @@ print(smallest)
 # Tuples
 
 numbering = (1,23,4,5,6)
+
+# Dictionaries there are for storing info that comes as key value pairs.
+
+customer = {
+    "name": "John Smith",
+    "Age":30,
+    "is_verified": True
+}
